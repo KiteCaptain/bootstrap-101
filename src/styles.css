@@ -1,0 +1,16 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    /* border: 1px solid blueviolet */
+
+}
+.box {
+    min-height: 50px;
+    background-color: aquamarine;
+}
+
+.box2 {
+    min-height: 30px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    box-shadow: 0 0 0 1px blue;
+}
